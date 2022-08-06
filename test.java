@@ -3,5 +3,6 @@ Public class Test{
 		sysout("I'm in Ganesh");
 		sysout("I'm in Ganesh");
 		c=a+b;
+		d=x+y;
 	}
 }
