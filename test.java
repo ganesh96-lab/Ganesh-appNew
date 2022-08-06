@@ -6,5 +6,7 @@ Public class Test{
 
 		q=s+m;
 		d=x+y;
+		sysout("I'm in Ganesh");
+		sysout("I'm in Ganesh");
 	}
 }
